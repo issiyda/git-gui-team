@@ -11,7 +11,5 @@ git rebase -i HEAD~~
 # ローカルのブランチを削除
 git branch -D <branch_name>
 
-
-
 # コミットのコメント変更
 git commit --amend
